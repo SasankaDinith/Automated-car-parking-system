@@ -1,4 +1,6 @@
  <h1>🚗 Automated Car Parking System – A Fully Automated Solution</h1>
+
+  ![image url](https://github.com/SasankaDinith/Automated-car-parking-system/blob/main/1739357650648.jpeg?raw=true)
   <p>
     Welcome to the <strong>Automated Car Parking System</strong> repository! 🎉 This project, developed as part of the Digital Control Systems module at the University of Sri Jayewardenepura, demonstrates a smart and efficient parking solution that reduces human intervention in parking management.
   </p>
