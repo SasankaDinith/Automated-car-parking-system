@@ -78,13 +78,6 @@
     <li><strong>Test the System</strong>: Power on the hardware and test the automated parking flow using the web interface.</li>
   </ol>
 
-  <h2>📷 Project Showcase</h2>
-  <p>
-    <a href="https://youtu.be/yourvideolink" target="_blank" class="button">🎥 Watch Demonstration</a>
-  </p>
-
-
-
   <h2>📝 License</h2>
   <p>
     This project is licensed under the <a href="LICENSE">MIT License</a>.
